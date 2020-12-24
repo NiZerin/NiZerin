@@ -9,7 +9,7 @@
 
 ### About me
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Learning :** Full-Stack Web Development :zap: | Open-Source :fire:	
 -  **Languages :** JAVA,PHP,GO
 -  **Hobbies :** Articles & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
