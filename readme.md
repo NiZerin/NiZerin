@@ -8,9 +8,9 @@
 ### About me
 
 -  **Learning :** Full-Stack Web Development :zap: | Open-Source :fire:	
--  **Languages :** JAVA,PHP,GO
+-  **Languages :** PHP,GO,Rust
 -  **Hobbies :** Articles & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
--  **Organization :** PHP-OpenHub
+-  **Organization :** PHPOpenHub
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=NiZerin&show_icons=true)
