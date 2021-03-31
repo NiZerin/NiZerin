@@ -8,7 +8,7 @@
 ### About me
 
 -  **Learning :** Full-Stack Web Development :zap: | Open-Source :fire:	
--  **Languages :** PHP,GO,Rust
+-  **Languages :** PHP,Rust,JavaScript
 -  **Hobbies :** Articles & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** PHPOpenHub
