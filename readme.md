@@ -2,7 +2,7 @@
 
 ### Hi~ Thank you for coming 👋
 
-Full-Stack Web Development :zap:
+Full stack software engineer :zap:
 
 > Challenge the code and love open source project.
 
