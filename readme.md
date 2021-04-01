@@ -5,11 +5,8 @@
 [![Weichat Badge](https://img.shields.io/badge/-nizerin98-58CC02?style=flat-square&logo=wechat&logoColor=white&link=https://twitter.com/ningzelin)](https://cdn.iacblog.com/wx/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201217172526-300x300.jpg)
 [![Weibo Badge](https://img.shields.io/badge/-NiZerin-FFCC22?style=flat-square&logo=sina-weibo&logoColor=white&link=https://weibo.com/274722003)](https://weibo.com/274722003)
 
-
-### About me
-
--  **Learning :** Full-Stack Web Development :zap:
--  **Languages :** PHP,Rust,JavaScript
--  **Hobbies :** Articles & Music :headphones:
+Full-Stack Web Development :zap:
 
 > Challenge the code and love open source project.
+
+[https://nizer.in/](https://nizer.in/)
