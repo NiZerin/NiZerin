@@ -6,4 +6,4 @@ Full stack software engineer :zap:
 
 > Challenge the code and love open source project.
 
-[https://nizer.in/](https://nizer.in/)
+[https://nizer.in](https://nizer.in)
